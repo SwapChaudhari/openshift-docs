@@ -49,4 +49,4 @@ have the `openshift` binary.
 endif::[]
 
 See xref:../cli_reference/get_started_cli.adoc#cli-reference-get-started-cli[Get Started with the CLI] for
-installation and setup instructions.
+installation and setup instructions. 
